@@ -1,0 +1,3 @@
+.venv/ #不要把整個虛擬環境船上 Github
+__pycache__/ # 不要船python 自動產生的快去
+*.py[cod] # 不要傳python 編譯/快取檔
